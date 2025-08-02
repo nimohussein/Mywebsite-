@@ -1,0 +1,40 @@
+input{
+         width: 300px;
+         margin-bottom: 5px;
+         margin-left: 20px;
+ }
+ 
+ section button{
+         width: 200px;
+ background-color: darkslateblue;
+    color: whitesmoke;
+        margin-left: 20px;
+ }
+    a{
+      display: flex;
+      font-size: 15px;
+ }
+ h2{
+         color: darkslateblue;
+          font-size: 20px;
+ }
+ span{
+         color: grey;
+ }
+ svg {
+  width: 24px;
+  height: 24px;
+   color: darkslateblue;
+  transform: rotate(90deg); 
+  transition: transform 0.3s;
+}
+ i{
+       color: whitesmoke;
+ }
+p{
+        color: whitesmoke;
+}
+h3{
+        color: whitesmoke;
+        
+}
